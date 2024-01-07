@@ -23,12 +23,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/125Akash/3D-PortFolio.git
    ```
 
 2. Change into the project directory:
    ```bash
-   cd your-portfolio
+   cd 3D-PortFolio
    ```
 
 3. Install dependencies:
